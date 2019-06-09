@@ -67,7 +67,7 @@
     display: none;
   }
   
-  #navbar nav a.menu-icon {
+  .menu-icon {
     display:inline;
   }
 }
